@@ -6,7 +6,7 @@ function App() {
       <div className={"cards_center"}>
         {cardsPackets}
       </div>
-  )
+  );
 }
 
-export default App
+export default App;
